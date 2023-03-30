@@ -1,0 +1,23 @@
+Lantai Dasar
+Lab 1 : 30
+Lab 2 : 30
+Lab 3 : 30
+Lab 4 : 30
+Ruang Kelas selantai: 2
+Ruang BOL dan TFI : 10
+Ruang Kemahasiswan,dkk : 10
+
+Lantai 1
+Gedung M : 35
+Lab 1 : 20
+Lab 2 : 20
+Ruang Kelas : 13
+Ruang rektorat1,dkk = 10
+Ruang rektorat2,dkk = 10
+Gedung R : 3
+
+Lantai 2
+Ruang lab : 40
+Ruang kelas selantai : 19
+Ruang lab sipil = 4
+Ruang Fakultas = 4
